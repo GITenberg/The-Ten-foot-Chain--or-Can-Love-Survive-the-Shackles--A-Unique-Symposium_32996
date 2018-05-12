@@ -1,0 +1,54 @@
+_repo: The-Ten-foot-Chain--or-Can-Love-Survive-the-Shackles--A-Unique-Symposium_32996
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32996-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Sheehan, Perley Poore
+    alias: Sheehan, P. P.
+    birthdate: 1875
+    deathdate: 1943
+    gutenberg_agent_id: '36151'
+    url: http://www.gutenberg.org/2009/agents/36151
+  - agent_name: Abdullah, Achmed
+    birthdate: 1881
+    deathdate: 1945
+    gutenberg_agent_id: '36149'
+    url: http://www.gutenberg.org/2009/agents/36149
+  - agent_name: Brand, Max
+    aliases:
+    - Frederick, John
+    - Faust, Frederick Schiller
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '743'
+    url: http://www.gutenberg.org/2009/agents/743
+    wikipedia: http://en.wikipedia.org/wiki/Max_Brand
+  - agent_name: Means, E. K. (Eldred Kurtz)
+    alias: Means, Eldred Kurtz
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '36150'
+    url: http://www.gutenberg.org/2009/agents/36150
+description: An Indian jataka, by A. Abdullah.--Out of the dark, by M. Brand.--Plumb
+  nauseated, by E.K. Means.--Princess or percheron, by P.P. Sheehan.
+gutenberg_issued: '2010-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32996'
+  lccn: '20017407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcsh 'Love -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+tableOfContents: An Indian jataka, by A. Abdullah -- Out of the dark, by M. Brand
+  -- Plumb nauseated, by E. K. Means -- Princess or percheron, by P. P. Sheehan.
+title: The Ten-foot Chain; or, Can Love Survive the Shackles? A Unique Symposium
+url: http://www.gutenberg.org/ebooks/32996
