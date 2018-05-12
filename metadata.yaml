@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36150
 description: An Indian jataka, by A. Abdullah.--Out of the dark, by M. Brand.--Plumb
   nauseated, by E.K. Means.--Princess or percheron, by P.P. Sheehan.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32996#The-Ten-foot-Chain--or-Can-Love-Survive-the-Shackles--A-Unique-Symposium
 gutenberg_issued: '2010-06-27'
 gutenberg_type: Text
 identifiers:
